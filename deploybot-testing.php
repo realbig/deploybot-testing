@@ -12,7 +12,7 @@ add_action( 'admin_notices', function () {
 	?>
 	<div class="updated">
 		<p>
-			<code>DeployBot Plugin = Very Functional</code>
+			<code>DeployBot Plugin = Very Functional TEST</code>
 		</p>
 	</div>
 <?php

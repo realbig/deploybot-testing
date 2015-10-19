@@ -5,6 +5,12 @@ notifications:
     on_success: never
     on_failure: change
 
+# whitelist
+branches:
+  only:
+    - master
+    - develop
+
 php:
   - 5.3
 #  - 5.5

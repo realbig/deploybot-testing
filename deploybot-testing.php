@@ -3,7 +3,7 @@
  * Plugin Name: Deploy Bot Testing
  * Description: CANDCANELOLIPOPS
  * Author: Joel Worsham
- * Version: 0.1.1
+ * Version: 0.1.2
  */
 
 defined( 'ABSPATH' ) || die();

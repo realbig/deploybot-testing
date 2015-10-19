@@ -22,4 +22,4 @@ before_script:
 
 script: phpunit
 
-after_success: bin/deploybot.sh
+after_success: ./bin/deploybot.sh

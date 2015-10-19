@@ -6,10 +6,10 @@ notifications:
     on_failure: change
 
 # whitelist
-branches:
-  only:
-    - master
-    - develop
+#branches:
+#  only:
+#    - master
+#    - develop
 
 php:
   - 5.3
